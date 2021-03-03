@@ -272,6 +272,7 @@ def functionCalls():
     print(generate(50)) # pass length of the sequence as argument 
     print(generate_ii(50)) # pass in as argument the length of the sequence
     print("\n")
+    
     # database
     create_table()
     saveColors()
